@@ -1,0 +1,5 @@
+numpy
+requests
+sentence-transformers
+fastapi
+uvicorn[standard]

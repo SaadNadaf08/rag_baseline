@@ -1,0 +1,10 @@
+{"question": "How many PTO days do I get per year?", "reference": "24 days per year, accrued 2 per month", "gold_doc": "pto.md"}
+{"question": "What happens to my unused vacation days at the end of the year?", "reference": "Up to 8 days roll over; anything beyond 8 is forfeited on Dec 31; not paid out on exit", "gold_doc": "pto.md"}
+{"question": "Do I get extra days off for a work anniversary?", "reference": "1 extra floating holiday at 5/10/15 year milestones", "gold_doc": "pto.md"}
+{"question": "How long do I have to submit an expense before it is rejected?", "reference": "Within 30 days, otherwise rejected unless VP approves", "gold_doc": "expenses.md"}
+{"question": "Do I need approval before buying something expensive for work?", "reference": "Pre-approval from manager required for anything above 500 USD", "gold_doc": "expenses.md"}
+{"question": "How do I report a suspicious email?", "reference": "Use the Report Phishing button in Outlook, do not delete", "gold_doc": "security.md"}
+{"question": "When do I have to tell someone about a possible data breach?", "reference": "Notify security@acme.example within 1 hour of discovery", "gold_doc": "security.md"}
+{"question": "What happens in my first week as a new hire?", "reference": "Day 1 remote: laptop, docs, meet buddy; days 2-3 orientation; day 5 first starter ticket", "gold_doc": "onboarding.md"}
+{"question": "What training is mandatory in my first month?", "reference": "Security Awareness 2h, Anti-Harassment 1h, Product Fundamentals 3h", "gold_doc": "onboarding.md"}
+{"question": "When is my buddy available to answer questions?", "reference": "First 60 days", "gold_doc": "onboarding.md"}
